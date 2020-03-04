@@ -1,0 +1,22 @@
+.stockQuotesSummary {
+  width: 50%;
+  float: left;
+
+  div.header {
+    width: 100%;
+    float: left;
+
+    margin: 20px 0;
+
+    h4 {
+      float: left;
+    }
+  }
+
+  div.summaryItemsContainer {
+    width: 100%;
+    float: left;
+
+    border: 1px solid #000;
+  }
+}
